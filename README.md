@@ -11,3 +11,7 @@ you can use it  to:
 4. Display all students
 5. Create new course
 6. Add course to student
+
+note:
+I added all previous assignment
+so it will be like a Small reference to the other student 
