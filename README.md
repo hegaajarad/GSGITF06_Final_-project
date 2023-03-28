@@ -14,4 +14,4 @@ you can use it  to:
 
 note:
 I added all previous assignment
-so it will be like a Small reference to the other student 
+so it will be like a Small reference to the other students
